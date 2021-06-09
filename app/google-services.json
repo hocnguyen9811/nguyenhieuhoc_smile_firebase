@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "144390280135",
+    "project_id": "smilingface-realtimedb",
+    "storage_bucket": "smilingface-realtimedb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144390280135:android:a11d3313391d23a6407fe2",
+        "android_client_info": {
+          "package_name": "com.example.firebase_smilingface"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144390280135-cc4j7sc6tsu3f058u4tm680tckl4ruo4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD09VHE2fbyCpT5AGnavGpxD0vuMBqOJwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144390280135-cc4j7sc6tsu3f058u4tm680tckl4ruo4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
